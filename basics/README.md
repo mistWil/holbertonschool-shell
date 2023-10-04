@@ -1,2 +1,1 @@
-# holbertonschool-shell
-SHELL
+Utilisation du shell et script
